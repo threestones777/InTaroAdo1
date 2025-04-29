@@ -1,6 +1,6 @@
 import BannerBox from "@/businessComponents/BannerBox";
 import WhyDescBox from "@/businessComponents/whyDescBox";
-import Tabs from "@/businessComponents/Tabs";
+import Tabs from "@/businessComponents/tabs";
 import Carousel from "@/businessComponents/Carousel";
 import ContentCarousel from "@/businessComponents/ContentCarousel";
 import "./index.css";
