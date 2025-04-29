@@ -1,0 +1,16 @@
+
+
+.sem-banner-box .content .banner-content .description,
+.sem-banner-box .content .banner-content .title {
+  text-align: center !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sem-banner-box .content .banner-content .title {
+  width: 900px !important;
+}
+
+.sem-banner-box .content .banner-content .description {
+  width: 600px !important;
+}

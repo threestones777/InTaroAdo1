@@ -1,0 +1,123 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+}
+
+.custom-link {
+  cursor: pointer;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.custom-link::after {
+  content: ""; /* 伪元素内容为空 */
+  position: absolute; /* 绝对定位 */
+  left: 50%; /* 从左边开始 */
+  bottom: -6px; /* 初始位置在文字下方 6px */
+  width: calc(100% - 29px); /* 宽度比文本少 6px */
+  height: 4px; /* 下划线高度 */
+  background: #fefefe; /* 蓝色、透明度 50% */
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  transform: translateX(-50%) scaleX(0); /* 初始状态不显示 */
+}
+
+.custom-link-text {
+  font-family: MicrosoftYaHeiUI, MicrosoftYaHeiUI;
+  font-weight: bold;
+  font-size: 14px;
+  position: relative;
+  z-index: 10;
+}
+
+.custom-link.active::after {
+  transform: translateX(-50%) translateY(11px); /* 悬停时显示下划线 */
+  bottom: 0;
+}
+
+.header {
+  box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.1);
+  filter: blur(0px);
+}
+
+.header-nav-list > li {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.custom-link > a {
+  display: inline-block;
+  height: 32px;
+  line-height: 32px;
+  padding: 0 16px;
+  box-sizing: border-box;
+  border-radius: 16px;
+}
+
+a.custom-link:hover,
+.custom-link a:hover {
+  background: rgba(0, 0, 0, 0.6);
+  filter: blur(0px);
+}
+
+.sub-menu-list a {
+  background: #fff;
+  color: #78777f;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: MicrosoftYaHeiUI;
+  border-radius: 16px;
+}
+.sub-menu-list a:hover {
+  background: #fff;
+  color: #337db9;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: MicrosoftYaHeiUI;
+  border-radius: 16px;
+}
+
+.sub-menu-list {
+  width: auto;
+  min-width: 200px;
+  margin-right: 20px;
+}
+
+.sub-menu-list > div {
+  width: auto;
+  word-break: break-all;
+  text-wrap: nowrap;
+}
+
+.right-menu-list {
+  left: 100%;
+}
+
+.right-menu {
+  color: #78777f;
+  top: 0;
+}
+
+.right-menu > a {
+  width: 100%;
+  color: #78777f;
+  height: 48px;
+  line-height: 48px;
+  padding: 0 24px;
+  box-sizing: border-box;
+  border-radius: 16px;
+}
+
+.right-menu > a > span {
+  width: 100%;
+  justify-content: space-between;
+}
+
+.right-menu > div {
+  top: -12px;
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="106px" viewBox="0 0 106 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 7备份</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TECH&amp;DATA" transform="translate(-447.000000, -847.000000)" stroke-width="3">
+            <g id="编组-7备份" transform="translate(450.000000, 850.000000)">
+                <circle id="椭圆形备份" stroke="#F1E1CF" fill="#64C6DE" cx="50" cy="50" r="51.5"></circle>
+                <g id="众多用户_every-user" transform="translate(20.000000, 18.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+                    <circle id="椭圆形" cx="15" cy="37.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="45" cy="37.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="30" cy="7.5" r="7.5"></circle>
+                    <path d="M30,60 C30,51.7158 23.2842,45 15,45 C6.715725,45 0,51.7158 0,60" id="路径"></path>
+                    <path d="M60,60 C60,51.7158 53.2842,45 45,45 C36.7158,45 30,51.7158 30,60" id="路径"></path>
+                    <path d="M45,30 C45,21.7158 38.2842,15 30,15 C21.7158,15 15,21.7158 15,30" id="路径"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

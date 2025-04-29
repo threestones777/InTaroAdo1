@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="106px" viewBox="0 0 106 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 9备份 2</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TECH&amp;DATA" transform="translate(-117.000000, -1040.000000)">
+            <g id="编组-9备份-2" transform="translate(120.000000, 1043.000000)">
+                <circle id="椭圆形" stroke="#F1E1CF" stroke-width="3" fill="#4EAF95" cx="50" cy="50" r="51.5"></circle>
+                <g id="广告_ad" transform="translate(20.000000, 20.000000)">
+                    <circle id="椭圆形" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="30" cy="30" r="30"></circle>
+                    <line x1="51" y1="51" x2="46.5" y2="46.5" id="路径" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="9" y1="9" x2="13.5" y2="13.5" id="路径" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <polygon id="路径" points="25.71435 36 21 19.5 16.28565 36"></polygon>
+                    <path d="M15,40.5 L16.28565,36 M27,40.5 L25.71435,36 M25.71435,36 L21,19.5 L16.28565,36 M25.71435,36 L16.28565,36" id="形状" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M46.5,30 C46.5,37.5 41.12745,40.5 34.5,40.5 L34.5,19.5 C41.12745,19.5 46.5,22.5 46.5,30 Z" id="路径" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+.about-banner-box .content {
+  box-sizing: border-box;
+}
+
+.about-banner-box .content .banner-content {
+  padding-left: 240px;
+}

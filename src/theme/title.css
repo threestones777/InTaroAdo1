@@ -1,0 +1,56 @@
+.title-70 {
+  font-size: 70px;
+  color: var(--color-text);
+  line-height: 64px;
+  text-align: center;
+  font-weight: 600;
+}
+
+.title-50 {
+  font-size: 50px;
+  color:  var(--color-text);
+  text-align: center;
+  line-height: 70px;
+  font-weight: 600;
+}
+
+.title-44 {
+  font-size: 44px;
+  color:  var(--color-text);
+  text-align: center;
+  line-height: 54px;
+  font-weight: 600;
+}
+
+.title-36 {
+  font-size: 36px;
+  color:  var(--color-text);
+  line-height: 42px;
+  font-weight: 600;
+}
+
+.title-28 {
+  font-size: 28px;
+  color:  var(--color-text);
+  line-height: 42px;
+  font-weight: 600;
+}
+
+.title-14 {
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 600;
+}
+
+.content-22 { 
+  font-size: 22px;
+  color:  var(--color-text);
+  line-height: 34px;
+}
+
+.content-18 { 
+  font-size: 18px;
+  color:  var(--color-text);
+  line-height: 30px;
+}
+

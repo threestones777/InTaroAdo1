@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="106px" viewBox="0 0 106 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 7</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TECH&amp;DATA" transform="translate(-447.000000, -654.000000)" stroke-width="3">
+            <g id="编组-7" transform="translate(450.000000, 657.000000)">
+                <circle id="椭圆形备份" stroke="#F1E1CF" fill="#41937D" cx="50" cy="50" r="51.5"></circle>
+                <g id="货币流通_currency" transform="translate(22.000000, 23.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline id="路径" points="20.4324324 14.9701623 28 23.9125184 35.5675676 14.9701623"></polyline>
+                    <path d="M5.2972973,11.9892278 C5.2972973,11.9892278 16.6486486,-5.15037757 36.3243243,1.55641936 C56,8.2632461 55.2432432,27.6383511 55.2432432,27.6383511" id="路径"></path>
+                    <path d="M50.7027027,41.7972308 C50.7027027,41.7972308 41.6216216,58.1915504 21.1891892,52.975176 C0.756756757,47.7588015 0.756756757,26.8933038 0.756756757,26.8933038" id="路径"></path>
+                    <line x1="55.2432432" y1="3.04702071" x2="55.2432432" y2="26.8933038" id="路径"></line>
+                    <line x1="0.756756757" y1="26.8933038" x2="0.756756757" y2="50.7395869" id="路径"></line>
+                    <line x1="18.9189189" y1="32.8548746" x2="37.0810811" y2="32.8548746" id="路径"></line>
+                    <line x1="18.9189189" y1="23.9125184" x2="37.0810811" y2="23.9125184" id="路径"></line>
+                    <line x1="28" y1="23.9125184" x2="28" y2="41.7972308" id="路径"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

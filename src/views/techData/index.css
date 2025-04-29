@@ -1,0 +1,21 @@
+
+
+.tech-data-banner-box .content .banner-content .description,
+.tech-data-banner-box .content .banner-content .title {
+  text-align: center !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tech-data-banner-box .content .banner-content .title {
+  width: 900px !important;
+}
+
+.tech-data-banner-box .content .banner-content .description {
+  width: 600px !important;
+}
+
+
+
+
+

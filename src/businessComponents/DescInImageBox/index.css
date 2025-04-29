@@ -1,0 +1,17 @@
+
+
+.graphic-desc-box .desc-box {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: #fff;
+  padding: 89px 12px 88px 28px;
+}
+
+.graphic-desc-box .right {
+  right: 0;
+}
+
+.graphic-desc-box .left {
+  left: 0;
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="567px" height="384px" viewBox="0 0 567 384" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Centaurus Ad</title>
+    <defs>
+        <path d="M12,0 L555,0 C561.627417,-1.77635684e-15 567,5.372583 567,12 L567,372 C567,378.627417 561.627417,384 555,384 L12,384 C5.372583,384 0,378.627417 0,372 L0,12 C0,5.372583 5.372583,0 12,0 Z" id="path-1"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ADTECHINNO" transform="translate(-655.000000, -679.000000)">
+            <g id="Centaurus-Ad" transform="translate(655.000000, 679.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#291447" xlink:href="#path-1"></use>
+                <text mask="url(#mask-2)" font-family="Arial-Black, Arial Black" font-size="136" font-weight="700" fill="#6B5C7B">
+                    <tspan x="-443" y="106">Centaurus Ad</tspan>
+                </text>
+                <text id="Centaurus-Ad备份-2" mask="url(#mask-2)" font-family="Arial-Black, Arial Black" font-size="136" font-weight="700" fill="#6B5C7B">
+                    <tspan x="-443" y="325">Centaurus Ad</tspan>
+                </text>
+                <text id="Centaurus-Ad备份" stroke="#6B5C7B" mask="url(#mask-2)" font-family="Arial-Black, Arial Black" font-size="136" font-weight="700" fill="#291447">
+                    <tspan x="-443" y="212">Centaurus Ad</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
